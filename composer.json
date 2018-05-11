@@ -1,0 +1,16 @@
+{
+    "name": "administrator/composer-car",
+    "description": "this is a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhongxiang",
+            "email": "zhongxiang@yingmob.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		
+	}
+}
